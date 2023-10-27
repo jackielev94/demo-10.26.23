@@ -2,6 +2,7 @@ div {
   background-color: red;
   color: beige;
   width: 100%;
-  height: 300%
+  height: 300%;
+  display: flex;
 }
 
