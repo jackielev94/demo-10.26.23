@@ -3,5 +3,5 @@ div {
   color: beige;
   width: 100%;
   height: 300%;
-  display: grid;
+  display: flex;
 }
